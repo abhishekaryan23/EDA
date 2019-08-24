@@ -1,8 +1,9 @@
 # EDA
 Explortory Data Analysis on Google play store apps
 
-Analysis of kaggle Google playstore app dataset
+Analysis of kaggle Google playstore app dataset.
 https://www.kaggle.com/lava18/google-play-store-apps
+
 Analisis of the trends in the apps on the app store.
 
 ## Used python libraries
