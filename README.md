@@ -16,5 +16,7 @@ Analysis of the trends in the apps on the app store.
 
 Use "pip install *Required library" for not installed libraries
 
+Please use Jupyter notebook for optimum analysis experience.
+
 
 ### Note: The main code file is a jupyter notebook file, make sure you are pulling it and opening with jupyter Notebook.
